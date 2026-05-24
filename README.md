@@ -66,6 +66,7 @@ Scalable Service Design
 
 📂 Project Structure
 Bash
+```
 ecommerce-microservices/
 │
 ├── eureka-server
@@ -76,6 +77,7 @@ ecommerce-microservices/
 ├── inventory-service
 ├── notification-service
 └── README.md
+```
 ⚙️ Setup Instructions
 
 1️⃣ Clone Repository
